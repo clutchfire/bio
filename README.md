@@ -22,9 +22,7 @@ It serves as a high-performance, custom-built "Link in Bio" page designed to dir
 
 **Visit the hub directly:**
 
-### 👉 clutchfire.github.io/linkhub
-
-*(Note: If your repository is named differently, the link might be `clutchfire.github.io/repo-name`)*
+### 👉 [clutchfire.github.io/linkhub](https://clutchfire.github.io/linkhub)
 
 </div>
 
