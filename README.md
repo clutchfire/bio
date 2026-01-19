@@ -23,7 +23,6 @@ It serves as a high-performance, custom-built "Link in Bio" page designed to dir
 **Visit the hub directly:**
 
 ### 👉 [clutchfire.github.io/linkhub](https://clutchfire.github.io/linkhub)
-### 👉 [clutchfire.github.io/linkhub](https://clutchfire.github.io/linkhub)
 
 </div>
 

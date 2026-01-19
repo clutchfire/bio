@@ -133,6 +133,12 @@
             box-shadow: 0 6px 20px rgba(212, 20, 20, 0.5);
         }
 
+        .disabled {
+            opacity: 0.5 !important;
+            pointer-events: none;
+            cursor: default;
+        }
+
         footer {
             margin-top: auto;
             padding-top: 40px;
@@ -164,7 +170,7 @@
 
             <a href="https://github.com/clutchfire" target="_blank" rel="noopener noreferrer" class="link-card" onclick="gtag('event', 'click_github', {'event_category': 'link', 'event_label': 'GitHub'});">💻 GitHub Repository</a>
 
-            <a href="#" class="link-card" style="opacity: 0.5; cursor: not-allowed;" onclick="gtag('event', 'click_files_waitlist', {'event_category': 'link', 'event_label': 'Project Files Waitlist'});">🛒 Project Files (Coming Soon)</a>
+            <a class="link-card disabled">🛒 Project Files (Coming Soon)</a>
         </div>
     </main>
 
