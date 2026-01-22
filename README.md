@@ -1,8 +1,8 @@
-# ClutchFire3D | Official Link Hub 🔗
+# ClutchFire | Official Link Hub 🔗
 
 <div align="center">
 
-  **The central gateway to all ClutchFire3D projects, community, and resources.**
+  **The central gateway to all ClutchFire projects, community, and resources.**
   
   <br>
 
@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About
-This repository hosts the source code for the official **ClutchFire3D Link Hub**. 
+This repository hosts the source code for the official **ClutchFire Link Hub**. 
 
 It serves as a high-performance, custom-built "Link in Bio" page designed to direct traffic from social media platforms to our core projects, such as the **Firestar HPA System**, our community Discord, and official documentation.
 
